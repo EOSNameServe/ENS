@@ -17,12 +17,12 @@ eosio://[type(options)].[contract-name]
 | mail    | 获取邮件联系地址     |  todo    |
 
 
-## 客户端协议类型
+具体形式如下:
 ```
-eosio://[contract-name]
-eosio://dapp.[contract-name]
-eosio://mail.[contract-name]
-eosio://roadmap.[contract-name]
+eosio://[contract-name] --> 获取到绑定的所有信息
+eosio://dapp.[contract-name] --> 获取到绑定的 dapp 类型，必须是 url
+eosio://mail.[contract-name] --> 获取到绑定的 邮件类型，必须是 mail 协议
+eosio://roadmap.[contract-name] --> 获取到绑定的 roadmap，协议暂定
 ```
 
 
