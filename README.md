@@ -20,7 +20,7 @@ eosio://[type(options)].[contract-name]
 具体形式如下:
 ```
 eosio://[contract-name] --> 获取到绑定的所有信息
-eosio://dapp.[contract-name] --> 获取到绑定的 dapp 类型，必须是 url
+eosio://dapp.[contract-name] --> 获取到绑定的 dapp 类型，必须是 url（鸡贼的你，可以写 ip 地址，这样就不用域名解析了）
 eosio://mail.[contract-name] --> 获取到绑定的 邮件类型，必须是 mail 协议
 eosio://roadmap.[contract-name] --> 获取到绑定的 roadmap，协议暂定
 ```
