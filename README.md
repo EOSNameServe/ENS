@@ -8,7 +8,6 @@ dns on the eosio
 ## 合约端协议类型
 ```
 eosio://[type(options)].[contract-name]
-默认情况下: eosio://dapp.[contract-name]
 ```
 
 | type     |意义      |开发状态 |
