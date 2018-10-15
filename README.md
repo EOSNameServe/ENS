@@ -49,6 +49,7 @@ example: query `enserve.bank` info.
 + use eosjs
 // todo
 
-
-[client-design](https://github.com/flyer88/ENS/blob/HEAD/client-design-en.md)
+## client
+[client-design-en](https://github.com/flyer88/ENS/blob/HEAD/client-design-en.md)
+[中文版](https://github.com/flyer88/ENS/blob/HEAD/client-design-zh.md)
 
