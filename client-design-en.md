@@ -42,7 +42,7 @@ https://node.eosflare.io/v1/chain/get_table_rows
     "more": false
 }
 ```
-**return-result**
+**return-result:**   
 client will parse the result，return ["https://eosnameserve.github.io"](https://eosnameserve.github.io)
 
 
