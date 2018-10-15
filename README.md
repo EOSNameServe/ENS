@@ -11,6 +11,7 @@ EOSAccountNameService
 
 You can use push an action to `enserve.bank` with action `binddapp`.
 Besides, if you want to update it, you can also push this action.
+In fact, you also can bind ip address.
 
 + use cleos 
 ```
