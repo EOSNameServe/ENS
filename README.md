@@ -1,8 +1,8 @@
-# ENS
+## ENS
 EOSAccountNameService
 
-# contract
-enserve.bank
+## contract
+[enserve.bank](https://bloks.io/account/enserve.bank)
 
 
 ## usage
