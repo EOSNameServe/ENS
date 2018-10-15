@@ -50,5 +50,5 @@ example: query `enserve.bank` info.
 // todo
 
 
-[client-design]()
+[client-design](https://github.com/flyer88/ENS/blob/HEAD/client-design-en.md)
 
