@@ -13,9 +13,14 @@ ens://enserve.bank
 ```
 
 ### client processing 
-**url:** `https://node.eosflare.io/v1/chain/get_table_rows`
+request bp, parse data, give the result to the caller
 
-**params:**
+**request-url:** 
+```
+https://node.eosflare.io/v1/chain/get_table_rows
+```
+
+**request-params:**
 ```
 {
 	"scope":"enserve.bank",
@@ -25,7 +30,7 @@ ens://enserve.bank
 }
 ```
 
-**result:**
+**request-result:**
 ```
 {
     "rows": [
@@ -37,6 +42,10 @@ ens://enserve.bank
     "more": false
 }
 ```
-
+**return-result**
 client will parse the result，return ["https://eosnameserve.github.io"](https://eosnameserve.github.io)
 
+
+## sdk
+
++ [android](https://github.com/zguop/ens-android-client)
