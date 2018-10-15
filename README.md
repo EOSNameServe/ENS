@@ -1,5 +1,5 @@
 # ENS
-dns over the eosio
+EOSAccountNameService
 
 # contract
 enserve.bank
