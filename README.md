@@ -13,6 +13,10 @@ You can use push an action to `enserve.bank` with action `binddapp`.
 Besides, if you want to update it, you can also push this action.
 In fact, you also can bind ip address.
 
++ use web page
+  you need an eos account and scatter plugin.
+  [ensnameserve](https://eosnameserve.github.io/#/)
+
 + use cleos 
 ```
 cleos push action enserve.bank binddapp '["https://eosnameserve.github.io","enserve.bank"]'  -p enserve.bank@active
@@ -26,6 +30,10 @@ cleos push action enserve.bank binddapp '["https://eosnameserve.github.io","ense
 
 
 ### query
+
++ use chrome plugin
+you can input your eos account, it will refer to your bind url or ip website.
+[chrome_plugin](https://github.com/fengqiyue/ensProtocolParser)
 
 + use cleos 
 
@@ -49,7 +57,14 @@ example: query `enserve.bank` info.
 + use eosjs
 // todo
 
-## client
-[client-design-en](https://github.com/flyer88/ENS/blob/HEAD/client-design-en.md)
-[中文版](https://github.com/flyer88/ENS/blob/HEAD/client-design-zh.md)
++ use android sdk
+[android](https://github.com/zguop/ens-android-client)
+
++ use iOS sdk
+// todo  
+
+###client design
++ [client-design-en](https://github.com/flyer88/ENS/blob/HEAD/client-design-en.md)
++ [中文版](https://github.com/flyer88/ENS/blob/HEAD/client-design-zh.md)
+
 
