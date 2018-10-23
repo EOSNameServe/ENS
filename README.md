@@ -63,7 +63,7 @@ example: query `enserve.bank` info.
 + use iOS sdk
 // todo  
 
-###client design
+### client design
 + [client-design-en](https://github.com/flyer88/ENS/blob/HEAD/client-design-en.md)
 + [中文版](https://github.com/flyer88/ENS/blob/HEAD/client-design-zh.md)
 
