@@ -1,6 +1,9 @@
 ## ENS
 EOSAccountNameService
 
+This is rudiment of DSN over EOSIO.You can bind it over contract, query the url or ip address by rpc or anything can connect to EOSIO.
+For exampl, you can [bind](http://eosnameserve.github.io) `enserve.bank` (an EOS MainNet account) with http://eosnameserve.github.io, after that, you can put your eos name to visit your web site by [a chrome plugin](https://github.com/fengqiyue/ensProtocolParser).
+
 ## contract
 [enserve.bank](https://bloks.io/account/enserve.bank)
 
