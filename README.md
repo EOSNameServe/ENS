@@ -1,6 +1,6 @@
 
 ###
-[项目介绍-中文版]()
+[项目介绍-中文版](https://github.com/EOSNameServe/ENS/blob/master/README-zh.md)
 ----
 
 ## ENS -- EOSAccountNameService
