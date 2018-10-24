@@ -9,7 +9,7 @@
 
 ## 使用方式
 
-### 绑定 
+### 1.绑定 
 你只需要 push action `binddapp` 到 `enserve.bank`就可以，这个 action 也支持更新操作。
 实时上，你也可以绑定 ip 地址，这样你就不需要找域名商去域名解析了。
 
@@ -27,7 +27,7 @@ cleos push action enserve.bank binddapp '["https://eosnameserve.github.io","ense
 // todo
 
 
-### 查询
+### 2.查询
 
 #### 用 chrome 插件直接访问
 输入账号，会自动跳转到绑定的网站地址。插件具体内容：[chrome_plugin](https://github.com/fengqiyue/ensProtocolParser)
